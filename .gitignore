@@ -1,0 +1,32 @@
+# Compiled Object files, Bitstreams, and Binaries
+*.bit
+*.bin
+*.mcs
+*.prm
+*.dcp
+
+# Vivado Log, Journal, and Crash files
+*.jou
+*.log
+*.str
+*.pb
+hs_err_pid*.log
+
+# Vivado Project Directories and Auto-Generated Folders
+.Xil/
+.ip_user_files/
+*.cache/
+*.hw/
+*.sim/
+*.runs/
+project_*/
+workspace/
+
+# Simulation Waveforms and Databases
+*.wdb
+*.vcd
+xsim.dir/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
